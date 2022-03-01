@@ -53,7 +53,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina um editor pa
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git@github.com:RenatoAlbuquerque/HvexLabs.git
 # Vá para a pasta da aplicação Front End
 # Instale as dependências
 $ npm install
@@ -79,10 +79,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[SweetAlert2](https://sweetalert2.github.io/#download)**
 - **[Yup](https://github.com/jquense/yup)**
 
-> Veja o arquivo [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/web/package.json)
+> Veja o arquivo [package.json](https://github.com/RenatoAlbuquerque/HvexLabs/blob/main/package.json)
 
 **Utilitários**
 
-- API: **[GITHUB API](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)**
+- API: **[GITHUB API](https://developer.github.com/v3/)**
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
 - Teste de API: **[Insomnia](https://insomnia.rest/)**
